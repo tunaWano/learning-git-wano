@@ -37,9 +37,17 @@ Người dùng đã đăng nhập hệ thống với quyền **Biên tập viên
 - Toàn bộ nội dung cập nhật được lưu chính xác, hệ thống ghi nhận đúng **Lịch sử phiên bản (Version History)**.
 ## Test Case — Tạo tài liệu mới
 
+<<<<<<< HEAD
 ### Mục tiêu
 
 Kiểm tra người dùng có thể tạo một tài liệu mới thành công trên hệ thống.
+=======
+## Test Case — Tạo tài liệu mới
+
+### Mục tiêu
+
+Kiểm tra người dùng có thể tạo và mở lại một tài liệu mới thành công trên hệ thống.
+>>>>>>> origin/merge/test-case
 
 ### Điều kiện
 
@@ -54,8 +62,17 @@ Người dùng đã đăng nhập và đang ở màn hình quản lý tài liệ
 
 ### Kết quả mong đợi
 
+<<<<<<< HEAD
 Tài liệu mới được tạo thành công và hiển thị trong danh sách tài liệu.
 
 ### Ghi chú
 
 Tài liệu được tạo cần hiển thị đầy đủ thông tin và có thể được mở lại từ danh sách tài liệu.
+=======
+Tài liệu mới được tạo thành công và được hiển thị ngay trong danh sách tài liệu.
+
+### Ghi chú
+
+Tài liệu được tạo hiển thị đầy đủ thông tin và có thể mở lại từ danh sách tài liệu.
+
+>>>>>>> origin/merge/test-case
